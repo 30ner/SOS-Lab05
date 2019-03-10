@@ -1,0 +1,15 @@
+{
+  "name": "l04b",
+  "version": "0.0.1",
+  "description": "Testing module.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jjballina66@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.16.4"
+  }
+}
